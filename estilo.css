@@ -1,0 +1,18 @@
+body{
+    background-color: #f3f3f3;
+    font-family: verdana;
+}
+table{
+    background-color: #acffaa;
+    border: 5px solid #acffaa;
+}
+th{
+    background-color: #acffaa;
+    padding: 10px 0px 10px 0px;
+}
+tr{
+    background-color: white;
+}
+td{
+    padding: 5px;
+}
